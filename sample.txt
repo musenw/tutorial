@@ -1,1 +1,4 @@
 even monkey knows Git commands
+add revise add index
+commit index condition
+
